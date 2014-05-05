@@ -1,7 +1,8 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
 <body>
-<pre style="word-wrap: break-word; white-space: pre-wrap;">
 # Launching or comming soon page
+<pre style="word-wrap: break-word; white-space: pre-wrap;">
+
 This is simple and easy and very effective, iteractive comming soon page of website you can set time in days hour minute and second for website launch very eye caching timer will start along with background slide
 Their 3 section About us, contact us and newsletter page which will open with light box effect you can use your own scripting language Ex. php .net etc to activate the form  
 ## Usage
